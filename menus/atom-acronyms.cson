@@ -1,0 +1,11 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Update Definition'
+      'command': 'atom-acronyms:update-definition'
+    },
+    {
+      'label': 'Print Acronyms'
+      'command': 'atom-acronyms:update-definition'
+    }
+  ]

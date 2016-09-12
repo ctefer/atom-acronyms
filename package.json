@@ -1,0 +1,17 @@
+{
+  "name": "atom-acronyms",
+  "version": "0.0.0",
+  "description": "Atom package for working with acronyms",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctefer/atom-acronyms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ctefer/atom-acronyms/issues"
+  },
+  "license": "MIT"
+}
