@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Acronyms'
+      'submenu': [
+        {
+          'label': 'Update Definition'
+          'command': 'atom-acronyms:update-definition'
+        },
+        {
+          'label': 'Define First Use'
+          'command': 'atom-acronyms:define-first'
+        },
+        {
+          'label': 'Print Acronyms'
+          'command': 'atom-acronyms:print-acronyms'
+        }
+      ]
+    }
+
+  ]

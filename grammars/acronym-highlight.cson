@@ -1,0 +1,10 @@
+scopeName: 'source.acronym'
+name: 'Acronyms'
+fileTypes: ['markdown', 'md', 'html', 'txt']
+
+patterns: [
+  {
+    match: '\\b(?:[A-Z](?:\\.|[aeiou]*)){2,}(?:\\.|\\b)'
+    name: 'keyword.entity.acronym'
+  }
+]
